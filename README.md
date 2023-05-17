@@ -39,5 +39,3 @@ The trained model achieved an accuracy of 95% on the test dataset. The performan
 ## Conclusion
 
 In this project, we successfully built a CNN model for detecting forest fires with a high accuracy of 95%. The trained model is saved as "model.pkl" for future use.
-
-For more details, refer to the code and comments in the provided files.
